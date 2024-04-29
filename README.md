@@ -60,4 +60,4 @@ Based on the analysis conducted, the following recommendations are proposed to e
 
 Implementing these recommendations can lead to a more informed content strategy and improved viewer engagement, ultimately driving channel growth and success.
 
-# Analysis of the comments is still in progress
+# Analysis of the comments sentiments is still in progress
