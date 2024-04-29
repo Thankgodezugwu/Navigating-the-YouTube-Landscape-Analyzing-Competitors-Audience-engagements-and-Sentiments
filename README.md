@@ -25,7 +25,7 @@ With a primary emphasis on competitor analysis and the exploration of audience s
 - **Number of entries:** 812 entries
 
 ## Collection Methodology
-The collection methodology involved adhering to the guidelines provided by the Google Development Console and the YouTube Data API. Python functions were employed to facilitate the extraction process, ensuring compliance with data extraction protocols.
+The process of gathering data adhered meticulously to the guidelines established by the YouTube Data API. To execute this, a sophisticated approach utilizing Python programming was employed. Within this framework, a suite of custom functions was developed specifically tailored to extract the requisite data. These functions were meticulously crafted to ensure compliance with the stringent data extraction protocols mandated by the platforms. By leveraging Python's versatility and the capabilities of these custom functions, the extraction process was not only efficient but also robust, guaranteeing the integrity and accuracy of the collected data.
 
 ## Tools
 The tools utilized for data extraction and analysis included the Google Development Console, the YouTube Data API, and Python programming language with relevant libraries and functions. These tools enabled efficient extraction and manipulation of data for comprehensive analysis.
