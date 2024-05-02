@@ -12,8 +12,14 @@ With a primary emphasis on competitor analysis and the exploration of audience s
 - **Number of columns:** 5 columns (channel_name, subscribers, views, total_videos, playlist_id)
 - **Number of entries:** 4 YouTube channels
 
+![pc1](https://github.com/Thankgodezugwu/Navigating-the-YouTube-Landscape-Analyzing-Competitors-Audience-engagements-and-Sentiments/assets/145191825/9186f688-de81-4eb1-b86b-1a5146b6fb82)
+
+
 ### Channel with highest number of video uploads:
 - **Ken Jee’s channel**
+
+![pc2](https://github.com/Thankgodezugwu/Navigating-the-YouTube-Landscape-Analyzing-Competitors-Audience-engagements-and-Sentiments/assets/145191825/3bb09298-f6c8-40ee-bb85-dbbd51638243)
+
 
 ### Data extracted from Ken Jee’s Channel for quantitative analysis:
 - **Number of columns:** 7 columns (Title, Published_date, Views, Likes, Dislikes, Comments, videoid)
