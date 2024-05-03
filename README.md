@@ -20,15 +20,20 @@ With a primary emphasis on competitor analysis and the exploration of audience s
 
 ![pc2](https://github.com/Thankgodezugwu/Navigating-the-YouTube-Landscape-Analyzing-Competitors-Audience-engagements-and-Sentiments/assets/145191825/3bb09298-f6c8-40ee-bb85-dbbd51638243)
 
-
 ### Data extracted from Ken Jee’s Channel for quantitative analysis:
 - **Number of columns:** 7 columns (Title, Published_date, Views, Likes, Dislikes, Comments, videoid)
 - **Feature Engineered columns:** 2 columns (Pub_Month, day)
 - **Number of entries:** 287 entries
 
+![pc3](https://github.com/Thankgodezugwu/Navigating-the-YouTube-Landscape-Analyzing-Competitors-Audience-engagements-and-Sentiments/assets/145191825/9e2dc762-fcf4-4d49-a225-7d7d24b314da)
+
+
 ### Data extracted from Ken Jee’s Channel for sentiment analysis:
 - **Number of columns:** 5 columns (author, date_updated, like_count, comment_text, public)
 - **Number of entries:** 812 entries
+
+![pc4](https://github.com/Thankgodezugwu/Navigating-the-YouTube-Landscape-Analyzing-Competitors-Audience-engagements-and-Sentiments/assets/145191825/c4874bc7-d61a-4030-9215-9f97eb2af3ed)
+
 
 ## Collection Methodology
 The process of gathering data adhered meticulously to the guidelines established by the YouTube Data API. To execute this, a sophisticated approach utilizing Python programming was employed. Within this framework, a suite of custom functions was developed specifically tailored to extract the requisite data. These functions were meticulously crafted to ensure compliance with the stringent data extraction protocols mandated by the platforms. By leveraging Python's versatility and the capabilities of these custom functions, the extraction process was not only efficient but also robust, guaranteeing the integrity and accuracy of the collected data.
@@ -40,18 +45,33 @@ The tools utilized for data extraction and analysis included the Google Developm
 ### Top 10 videos with highest viewers:
 - The video titled "How I would learn data science (If I have to start over)", posted on the 8th of May 2020, garnered the highest viewership among the observed dataset, with 1,399,761 viewers.
 
+![pc5](https://github.com/Thankgodezugwu/Navigating-the-YouTube-Landscape-Analyzing-Competitors-Audience-engagements-and-Sentiments/assets/145191825/4023763d-93d3-4321-9fab-5f27cd30ad5b)
+
+
 ### Monthly posting trend:
 - March consistently exhibits the highest number of videos posted, as evidenced by the visualization.
+
+![pc6](https://github.com/Thankgodezugwu/Navigating-the-YouTube-Landscape-Analyzing-Competitors-Audience-engagements-and-Sentiments/assets/145191825/2df28e37-7a3c-4deb-b9ab-1b06dfab3274)
+
 
 ### Understanding Viewer Engagement: Analyzing Trends Over Time
 #### Monthly viewers trend:
 - May showcases the highest viewership, closely trailed by April, while October marks the lowest viewership. These insights are invaluable for decision-making processes.
 
+![pc7](https://github.com/Thankgodezugwu/Navigating-the-YouTube-Landscape-Analyzing-Competitors-Audience-engagements-and-Sentiments/assets/145191825/b5412ad2-26c9-4e97-a125-5418b36879bd)
+
+
 #### Daily viewers trend:
 - Friday consistently commands the highest viewership figures, followed closely by Monday. Conversely, Sunday consistently records the lowest viewership metrics.
 
+![pc8](https://github.com/Thankgodezugwu/Navigating-the-YouTube-Landscape-Analyzing-Competitors-Audience-engagements-and-Sentiments/assets/145191825/1595803b-0481-4e30-a213-b4e491f1d9e0)
+
+
 ### Correlation:
 - The heatmap visualization indicates positive correlation among all numeric variables, except for Dislike, which lacks a significant correlation value.
+
+![pc9](https://github.com/Thankgodezugwu/Navigating-the-YouTube-Landscape-Analyzing-Competitors-Audience-engagements-and-Sentiments/assets/145191825/7d1b2520-8370-44b6-a3ba-394c0953f1a1)
+
 
 ## Recommendation
 Based on the analysis conducted, the following recommendations are proposed to enhance YouTube channel performance and decision-making:
