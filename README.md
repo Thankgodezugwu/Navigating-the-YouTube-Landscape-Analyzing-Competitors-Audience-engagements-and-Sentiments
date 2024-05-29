@@ -1,4 +1,4 @@
-# YouTube Landscape Analysis
+# YouTube Landscape Analysis 
 
 ## Project Overview
 The **YouTube Landscape Analysis** project aims to provide comprehensive insights into the competitive landscape of YouTube channels. It focuses on analyzing competitor channels, audience engagement, and sentiment analysis to empower content creators and channel managers with valuable information for strategic decision-making.
